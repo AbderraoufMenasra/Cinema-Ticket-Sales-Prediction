@@ -21,7 +21,3 @@ The dataset used in this project contains about eight months of sales history fr
 - **date, month, quarter, day**: Temporal data categorizing each screening's timing for analysis
 
 The dataset can be found on Kaggle: [Cinema Ticket Sales Data](https://www.kaggle.com/datasets/arashnic/cinema-ticket/data).
-
-## Documentation
-For more detailed information on the methods, analysis, and conclusions drawn from this project, please refer to the provided documentation and the HTML file included in this repository (just excute the html file before)
-.
